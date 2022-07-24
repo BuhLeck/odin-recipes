@@ -1,1 +1,1 @@
-# odin-recipes
+Creating a list of recipes with directions and ingredients. Teaching on how to prepare the food. Gain an understanding of HTML and the use of Git.
